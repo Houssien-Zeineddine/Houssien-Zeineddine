@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Houssien<br>💻 Computer Science Student in the Making<br>🚀 Passionate about coding, problem-solving, and building cool projects<br>📚 Currently learning PHP, MySQL, and web development<br>🔧 Working on a digital wallet project<br>📍 Exploring new technologies and improving my skills every day<br><br>Let's connect and build something awesome! 😃
+👋 I'm Houssien<br>💻 Computer Science Student in the Making<br>🚀 Passionate about coding, problem-solving, and building cool projects<br>📍 Exploring new technologies and improving my skills every day<br><br>Let's connect and build something awesome! 😃
 
 
 # 💻 Tech Stack:
